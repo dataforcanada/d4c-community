@@ -6,7 +6,7 @@ Central hub for Data for Canada (d4c) outreach, community engagement, and projec
 This repository contains public-facing materials used to communicate project goals, technical standards, and updates to partners and the general public.
 
 ## 📂 Contents
-* **Presentations:** Slide decks from conferences and workshops.
+* **Presentations:** Slide decks for various audiences.
 * **Media:** Videos, webinars, and recorded sessions.
 * **Meetings:** Notes and handouts from partner and stakeholder meetings.
 * **Design:** Posters, infographics, and project graphics.
@@ -20,7 +20,7 @@ This repository contains public-facing materials used to communicate project goa
 * `/publications` - White papers and handouts
 
 ## 🤝 Contributing
-Contributions of community materials are welcome via Pull Request. Please ensure any media uploaded adheres to the project's formatting standards.
+Contributions of community materials are welcome via Pull Request. Please ensure any media uploaded adheres to the project's formatting standards **(to be defined)**.
 
 ## 📜 License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
