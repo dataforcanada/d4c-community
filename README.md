@@ -13,7 +13,7 @@ This repository contains public-facing materials used to communicate project goa
 * **Documents:** White papers and formal project notes.
 
 ## 📁 Directory Structure
-* `/presentations` - Slide decks (ex. PDF/PPTX, [Other](https://github.com/dataforcanada/d4c-community/issues)
+* `/presentations` - Slide decks (ex. PDF/PPTX, [Other](https://github.com/dataforcanada/d4c-community/issues))
 * `/videos` - Webinar links and video assets
 * `/meetings` - Agendas and meeting notes
 * `/graphics` - Posters and brand assets
