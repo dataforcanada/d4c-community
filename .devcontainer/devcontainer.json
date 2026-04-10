@@ -1,0 +1,27 @@
+{
+  "name": "Slidev Presentations",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "nodeGypDependencies": true,
+      "version": "lts",
+      "pnpmVersion": "latest"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rooveterinaryinc.roo-cline",
+        "antfu.slidev"
+      ]
+    }
+  },
+  "postCreateCommand": "pnpm init && pnpm add -D @slidev/cli@52.14.2 @slidev/theme-default@latest",
+  "forwardPorts": [3030],
+  "portsAttributes": {
+    "3030": {
+      "label": "Slidev",
+      "onAutoForward": "openBrowser"
+    }
+  }
+}

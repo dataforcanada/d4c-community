@@ -1,0 +1,16 @@
+{
+  "name": "2026-04-10-canadian-open-data-society",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build --base /d4c-community/presentations/2026-04-10-canadian-open-data-society/",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.14.2",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.29"
+  }
+}
